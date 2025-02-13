@@ -1,0 +1,1499 @@
+Archive member included to satisfy reference by file (symbol)
+
+mcc_generated_files\touch\libraries\libqtm_acq_runtime_t817_0x0008.X.a(avr_acq_runtime_x_t817.o)
+                              build/default/production/mcc_generated_files/touch/touch.o (qtm_acquisition_process)
+mcc_generated_files\touch\libraries\libqtm_touch_key_t817_0x0002.X.a(avr_touch_key_x_t817.o)
+                              build/default/production/mcc_generated_files/touch/touch.o (qtm_update_qtlib_timer)
+c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+                              build/default/production/mcc_generated_files/system/src/config_bits.o (__do_copy_data)
+c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+                              D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o (exit)
+c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+                              c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o) (_Exit)
+c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                              c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o) (_exit)
+c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+                              C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o (__prologue_saves__)
+c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+                              C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+qtm_acquisition_control_working_set_ptr
+                    0x2               avr_acq_runtime_x_t817.o (symbol from plugin)
+qtm_raw_data_measurements_ptr
+                    0x2               avr_acq_runtime_x_t817.o (symbol from plugin)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ .bss           0x0000000000000000        0x0 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/clock.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/clock.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/clock.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/pins.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA2_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA1_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA4_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA5_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA6_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA7_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PB0_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.LED_B3_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.LED_Power_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.LED_B1_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.LED_B2_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.LED_B4_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/system.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/system.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/system.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_Start
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_Stop
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_SetCMPIsrCallback
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_SetPITIsrCallback
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_WriteCounter
+                0x0000000000000000       0x16 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_ReadCounter
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_ReadPeriod
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_EnableCMPInterrupt
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_DisableCMPInterrupt
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_EnableOVFInterrupt
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_DisableOVFInterrupt
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_EnablePITInterrupt
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_DisablePITInterrupt
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_ClearOVFInterruptFlag
+                0x0000000000000000        0x8 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_IsOVFInterruptEnabled
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_WriteCMPRegister
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text.RTC_ReadCMPRegister
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .text.touch_mainloop_example
+                0x0000000000000000       0x10 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_info    0x0000000000000000      0x336 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_abbrev  0x0000000000000000       0x7d build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_aranges
+                0x0000000000000000       0x20 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_ranges  0x0000000000000000       0x10 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_line    0x0000000000000000      0x10c build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_str     0x0000000000000000        0xe build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .comment       0x0000000000000000       0x30 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .debug_frame   0x0000000000000000       0x24 build/default/production/mcc_generated_files/touch/example/touch_example.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/touch.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/touch.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/touch/touch.o
+ .text.update_sensor_node_signal
+                0x0000000000000000       0x1a build/default/production/mcc_generated_files/touch/touch.o
+ .text.update_sensor_node_reference
+                0x0000000000000000       0x1a build/default/production/mcc_generated_files/touch/touch.o
+ .text.update_sensor_cc_val
+                0x0000000000000000       0x1a build/default/production/mcc_generated_files/touch/touch.o
+ .text.update_sensor_state
+                0x0000000000000000       0x1e build/default/production/mcc_generated_files/touch/touch.o
+ .text.calibrate_node
+                0x0000000000000000       0x2e build/default/production/mcc_generated_files/touch/touch.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Deinitialize
+                0x0000000000000000       0x24 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_AutoBaudSet
+                0x0000000000000000       0x28 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_AutoBaudQuery
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_IsRxReady
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_IsTxDone
+                0x0000000000000000        0x6 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ErrorGet
+                0x0000000000000000       0x26 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Read
+                0x0000000000000000       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_FramingErrorCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_OverrunErrorCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ParityErrorCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_RxCompleteCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TxCompleteCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Enable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Disable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_IsAutoBaudDetectError
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_AutoBaudDetectErrorReset
+                0x0000000000000000       0x20 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitInterruptEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitInterruptDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveInterruptEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveInterruptDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .rodata.TouchUART
+                0x0000000000000000       0x30 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .text          0x0000000000000000        0x0 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x73 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000002000 xr
+data             0x0000000000803e00 0x0000000000000200 rw !x
+eeprom           0x0000000000810000 0x0000000000000080 rw !x
+fuse             0x0000000000820000 0x000000000000000a rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803e00
+                0x0000000000008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/mcc_generated_files/system/src/clock.o
+LOAD build/default/production/mcc_generated_files/system/src/protected_io.o
+LOAD build/default/production/mcc_generated_files/system/src/interrupt.o
+LOAD build/default/production/mcc_generated_files/system/src/config_bits.o
+LOAD build/default/production/mcc_generated_files/system/src/pins.o
+LOAD build/default/production/mcc_generated_files/system/src/system.o
+LOAD build/default/production/mcc_generated_files/timer/src/rtc.o
+LOAD build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+LOAD build/default/production/mcc_generated_files/touch/example/touch_example.o
+LOAD build/default/production/mcc_generated_files/touch/touch.o
+LOAD build/default/production/mcc_generated_files/uart/src/usart0.o
+LOAD build/default/production/main.o
+LOAD C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+LOAD mcc_generated_files\touch\libraries\libqtm_acq_runtime_t817_0x0008.X.a
+LOAD mcc_generated_files\touch\libraries\libqtm_touch_key_t817_0x0002.X.a
+START GROUP
+LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a
+LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+LOAD c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a
+LOAD D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls\libattiny817.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000803e00]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000000000002000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000000200]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000080]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x000000000000000a]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xba
+ *(.vectors)
+ .vectors       0x0000000000000000       0x34 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000034       0x35 data_init
+                0x000000000000006a                . = ALIGN (0x2)
+ *fill*         0x0000000000000069        0x1 
+                0x000000000000006a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000006a        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000006a                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x000000000000006a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000006a                __ctors_start = .
+ *(.ctors)
+                0x000000000000006a                __ctors_end = .
+                0x000000000000006a                __dtors_start = .
+ *(.dtors)
+                0x000000000000006a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000006a        0x0 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+                0x000000000000006a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000006a        0xc D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000076       0x3c c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_copy_data.o)
+                0x0000000000000076                __do_copy_data
+                0x00000000000000a4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000b2        0x4 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ *(.init9)
+                0x00000000000000b6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000b6        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                0x00000000000000b6                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000b6        0x4 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000ba                _etext = .
+
+.data           0x0000000000803e00        0x0 load address 0x00000000000000ba
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+                0x0000000000803e00                . = ALIGN (0x2)
+                0x0000000000803e00                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000803e00        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000ba                __data_load_start = LOADADDR (.data)
+                0x00000000000000ba                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000803e00        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000803e00                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse           0x0000000000820000        0x9
+ *(.fuse)
+ .fuse          0x0000000000820000        0x9 build/default/production/mcc_generated_files/system/src/config_bits.o
+                0x0000000000820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/mcc_generated_files/system/src/clock.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/system/src/pins.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/system/src/system.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/touch/touch.o
+ .comment       0x000000000000002f       0x30 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .comment       0x000000000000002f       0x30 build/default/production/main.o
+ .comment       0x000000000000002f       0x30 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+ .comment       0x000000000000002f       0x2c c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000       0x2a
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x4e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_aranges
+                0x0000000000000020       0x20 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .debug_aranges
+                0x0000000000000040       0x20 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_aranges
+                0x0000000000000060       0x18 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .debug_aranges
+                0x0000000000000078       0xf8 build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_aranges
+                0x0000000000000170       0x20 build/default/production/mcc_generated_files/system/src/system.o
+ .debug_aranges
+                0x0000000000000190       0xc8 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_aranges
+                0x0000000000000258       0x30 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_aranges
+                0x0000000000000288       0x88 build/default/production/mcc_generated_files/touch/touch.o
+ .debug_aranges
+                0x0000000000000310      0x130 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_aranges
+                0x0000000000000440       0x28 build/default/production/main.o
+ .debug_aranges
+                0x0000000000000468       0x80 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x94cf
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x16bc D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ .debug_info    0x00000000000016bc      0x807 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_info    0x0000000000001ec3       0xcb build/default/production/mcc_generated_files/system/src/protected_io.o
+ .debug_info    0x0000000000001f8e      0x42e build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_info    0x00000000000023bc      0x861 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .debug_info    0x0000000000002c1d      0xecb build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_info    0x0000000000003ae8      0x362 build/default/production/mcc_generated_files/system/src/system.o
+ .debug_info    0x0000000000003e4a      0x97f build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_info    0x00000000000047c9      0x69b build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_info    0x0000000000004e64     0x17df build/default/production/mcc_generated_files/touch/touch.o
+ .debug_info    0x0000000000006643     0x1268 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_info    0x00000000000078ab      0x3c6 build/default/production/main.o
+ .debug_info    0x0000000000007c71     0x185e C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000     0x25d2
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x1582 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ .debug_abbrev  0x0000000000001582      0x11d build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_abbrev  0x000000000000169f       0x14 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .debug_abbrev  0x00000000000016b3       0xfa build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_abbrev  0x00000000000017ad       0x97 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .debug_abbrev  0x0000000000001844      0x182 build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_abbrev  0x00000000000019c6       0x6a build/default/production/mcc_generated_files/system/src/system.o
+ .debug_abbrev  0x0000000000001a30      0x14c build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_abbrev  0x0000000000001b7c      0x137 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_abbrev  0x0000000000001cb3      0x23d build/default/production/mcc_generated_files/touch/touch.o
+ .debug_abbrev  0x0000000000001ef0      0x30d build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_abbrev  0x00000000000021fd       0xcf build/default/production/main.o
+ .debug_abbrev  0x00000000000022cc      0x306 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x29e2
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x136 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ .debug_line    0x0000000000000136      0x179 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_line    0x00000000000002af       0x6d build/default/production/mcc_generated_files/system/src/protected_io.o
+ .debug_line    0x000000000000031c      0x197 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_line    0x00000000000004b3       0xfe build/default/production/mcc_generated_files/system/src/config_bits.o
+ .debug_line    0x00000000000005b1      0x4ef build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_line    0x0000000000000aa0      0x179 build/default/production/mcc_generated_files/system/src/system.o
+ .debug_line    0x0000000000000c19      0x3fa build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_line    0x0000000000001013      0x254 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_line    0x0000000000001267      0x39d build/default/production/mcc_generated_files/touch/touch.o
+ .debug_line    0x0000000000001604      0x6a2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_line    0x0000000000001ca6      0x176 build/default/production/main.o
+ .debug_line    0x0000000000001e1c      0xbc6 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_frame    0x0000000000000000      0xbe4
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x24 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_frame   0x0000000000000024       0x24 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_frame   0x0000000000000048      0x2b8 build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_frame   0x0000000000000300       0x24 build/default/production/mcc_generated_files/system/src/system.o
+ .debug_frame   0x0000000000000324      0x204 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_frame   0x0000000000000528       0x70 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_frame   0x0000000000000598      0x15c build/default/production/mcc_generated_files/touch/touch.o
+ .debug_frame   0x00000000000006f4      0x31c build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_frame   0x0000000000000a10       0x34 build/default/production/main.o
+ .debug_frame   0x0000000000000a44      0x1a0 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000      0xefc
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x9a7 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+ .debug_str     0x00000000000009a7       0x13 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_str     0x00000000000009ba       0x13 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_str     0x00000000000009cd        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .debug_str     0x00000000000009cd       0x25 build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_str     0x00000000000009f2       0x66 build/default/production/mcc_generated_files/system/src/system.o
+ .debug_str     0x0000000000000a58        0x9 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_str     0x0000000000000a61       0x72 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_str     0x0000000000000ad3      0x168 build/default/production/mcc_generated_files/touch/touch.o
+ .debug_str     0x0000000000000c3b       0x10 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_str     0x0000000000000c4b       0x31 build/default/production/main.o
+ .debug_str     0x0000000000000c7c      0x280 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000      0x5de
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xf6 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_loc     0x00000000000000f6       0x2a build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_loc     0x0000000000000120      0x113 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_loc     0x0000000000000233      0x1f6 build/default/production/mcc_generated_files/touch/touch.o
+ .debug_loc     0x0000000000000429      0x121 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_loc     0x000000000000054a       0x94 build/default/production/main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x498
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 build/default/production/mcc_generated_files/system/src/clock.o
+ .debug_ranges  0x0000000000000010       0x10 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .debug_ranges  0x0000000000000020       0xe8 build/default/production/mcc_generated_files/system/src/pins.o
+ .debug_ranges  0x0000000000000108       0x10 build/default/production/mcc_generated_files/system/src/system.o
+ .debug_ranges  0x0000000000000118       0xb8 build/default/production/mcc_generated_files/timer/src/rtc.o
+ .debug_ranges  0x00000000000001d0       0x20 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+ .debug_ranges  0x00000000000001f0       0x78 build/default/production/mcc_generated_files/touch/touch.o
+ .debug_ranges  0x0000000000000268      0x120 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .debug_ranges  0x0000000000000388       0x18 build/default/production/main.o
+ .debug_ranges  0x00000000000003a0       0xf8 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/attiny817_qtmoistd_kit.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+
+.bss.LED_B4_InterruptHandler
+                0x0000000000803eae        0x2
+ .bss.LED_B4_InterruptHandler
+                0x0000000000803eae        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.LED_B2_InterruptHandler
+                0x0000000000803eb0        0x2
+ .bss.LED_B2_InterruptHandler
+                0x0000000000803eb0        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.LED_B1_InterruptHandler
+                0x0000000000803eb2        0x2
+ .bss.LED_B1_InterruptHandler
+                0x0000000000803eb2        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.LED_Power_InterruptHandler
+                0x0000000000803eb4        0x2
+ .bss.LED_Power_InterruptHandler
+                0x0000000000803eb4        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.LED_B3_InterruptHandler
+                0x0000000000803eb6        0x2
+ .bss.LED_B3_InterruptHandler
+                0x0000000000803eb6        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PB0_InterruptHandler
+                0x0000000000803eb8        0x2
+ .bss.IO_PB0_InterruptHandler
+                0x0000000000803eb8        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PA7_InterruptHandler
+                0x0000000000803eba        0x2
+ .bss.IO_PA7_InterruptHandler
+                0x0000000000803eba        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PA6_InterruptHandler
+                0x0000000000803ebc        0x2
+ .bss.IO_PA6_InterruptHandler
+                0x0000000000803ebc        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PA5_InterruptHandler
+                0x0000000000803ebe        0x2
+ .bss.IO_PA5_InterruptHandler
+                0x0000000000803ebe        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PA4_InterruptHandler
+                0x0000000000803ec0        0x2
+ .bss.IO_PA4_InterruptHandler
+                0x0000000000803ec0        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PA1_InterruptHandler
+                0x0000000000803ec2        0x2
+ .bss.IO_PA1_InterruptHandler
+                0x0000000000803ec2        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.IO_PA2_InterruptHandler
+                0x0000000000803ec4        0x2
+ .bss.IO_PA2_InterruptHandler
+                0x0000000000803ec4        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+
+.bss.RTC_PIT_isr_cb
+                0x0000000000803ec6        0x2
+ .bss.RTC_PIT_isr_cb
+                0x0000000000803ec6        0x2 build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x0000000000803ec6                RTC_PIT_isr_cb
+
+.bss.RTC_CMP_isr_cb
+                0x0000000000803ec8        0x2
+ .bss.RTC_CMP_isr_cb
+                0x0000000000803ec8        0x2 build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x0000000000803ec8                RTC_CMP_isr_cb
+
+.bss.RTC_OVF_isr_cb
+                0x0000000000803eca        0x2
+ .bss.RTC_OVF_isr_cb
+                0x0000000000803eca        0x2 build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x0000000000803eca                RTC_OVF_isr_cb
+
+.bss.sequence.4014
+                0x0000000000803ee6        0x1
+ .bss.sequence.4014
+                0x0000000000803ee6        0x1 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+
+.bss.interrupt_cnt
+                0x0000000000803ee7        0x1
+ .bss.interrupt_cnt
+                0x0000000000803ee7        0x1 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803ee7                interrupt_cnt
+
+.bss.qtlib_key_data_set1
+                0x0000000000803e00       0x18
+ .bss.qtlib_key_data_set1
+                0x0000000000803e00       0x18 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e00                qtlib_key_data_set1
+
+.bss.qtlib_key_grp_data_set1
+                0x0000000000803e9d        0x6
+ .bss.qtlib_key_grp_data_set1
+                0x0000000000803e9d        0x6 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e9d                qtlib_key_grp_data_set1
+
+.bss.ptc_qtlib_node_stat1
+                0x0000000000803e30       0x14
+ .bss.ptc_qtlib_node_stat1
+                0x0000000000803e30       0x14 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e30                ptc_qtlib_node_stat1
+
+.bss.touch_acq_signals_raw
+                0x0000000000803e85        0x8
+ .bss.touch_acq_signals_raw
+                0x0000000000803e85        0x8 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e85                touch_acq_signals_raw
+
+.bss.module_error_code
+                0x0000000000803ee8        0x1
+ .bss.module_error_code
+                0x0000000000803ee8        0x1 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803ee8                module_error_code
+
+.bss.measurement_done_touch
+                0x0000000000803ee9        0x1
+ .bss.measurement_done_touch
+                0x0000000000803ee9        0x1 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803ee9                measurement_done_touch
+
+.bss.touch_postprocess_request
+                0x0000000000803eea        0x1
+ .bss.touch_postprocess_request
+                0x0000000000803eea        0x1 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803eea                touch_postprocess_request
+
+.bss.time_to_measure_touch_flag
+                0x0000000000803eeb        0x1
+ .bss.time_to_measure_touch_flag
+                0x0000000000803eeb        0x1 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803eeb                time_to_measure_touch_flag
+
+.bss.USART0_RxCompleteInterruptHandler
+                0x0000000000803ecc        0x2
+ .bss.USART0_RxCompleteInterruptHandler
+                0x0000000000803ecc        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.USART0_RxInterruptHandler
+                0x0000000000803ece        0x2
+ .bss.USART0_RxInterruptHandler
+                0x0000000000803ece        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000803ece                USART0_RxInterruptHandler
+
+.bss.USART0_TxCompleteInterruptHandler
+                0x0000000000803ed0        0x2
+ .bss.USART0_TxCompleteInterruptHandler
+                0x0000000000803ed0        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.USART0_TxInterruptHandler
+                0x0000000000803ed2        0x2
+ .bss.USART0_TxInterruptHandler
+                0x0000000000803ed2        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000803ed2                USART0_TxInterruptHandler
+
+.bss.USART0_ParityErrorHandler
+                0x0000000000803ed4        0x2
+ .bss.USART0_ParityErrorHandler
+                0x0000000000803ed4        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.USART0_OverrunErrorHandler
+                0x0000000000803ed6        0x2
+ .bss.USART0_OverrunErrorHandler
+                0x0000000000803ed6        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.USART0_FramingErrorHandler
+                0x0000000000803ed8        0x2
+ .bss.USART0_FramingErrorHandler
+                0x0000000000803ed8        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0RxLastError
+                0x0000000000803eda        0x2
+ .bss.usart0RxLastError
+                0x0000000000803eda        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0RxStatusBuffer
+                0x0000000000803e57       0x10
+ .bss.usart0RxStatusBuffer
+                0x0000000000803e57       0x10 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0RxBuffer
+                0x0000000000803e8d        0x8
+ .bss.usart0RxBuffer
+                0x0000000000803e8d        0x8 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0RxCount
+                0x0000000000803eec        0x1
+ .bss.usart0RxCount
+                0x0000000000803eec        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0RxTail
+                0x0000000000803eed        0x1
+ .bss.usart0RxTail
+                0x0000000000803eed        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0RxHead
+                0x0000000000803eee        0x1
+ .bss.usart0RxHead
+                0x0000000000803eee        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0IsTxComplete
+                0x0000000000803eef        0x1
+ .bss.usart0IsTxComplete
+                0x0000000000803eef        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0TxBuffer
+                0x0000000000803e95        0x8
+ .bss.usart0TxBuffer
+                0x0000000000803e95        0x8 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0TxBufferRemaining
+                0x0000000000803ef0        0x1
+ .bss.usart0TxBufferRemaining
+                0x0000000000803ef0        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0TxTail
+                0x0000000000803ef1        0x1
+ .bss.usart0TxTail
+                0x0000000000803ef1        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.usart0TxHead
+                0x0000000000803ef2        0x1
+ .bss.usart0TxHead
+                0x0000000000803ef2        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.bss.qtm_acquisition_control_working_set_ptr
+                0x0000000000803edc        0x2
+ .bss.qtm_acquisition_control_working_set_ptr
+                0x0000000000803edc        0x2 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.bss.ptc_seq_measure_complete_pointer
+                0x0000000000803ede        0x2
+ .bss.ptc_seq_measure_complete_pointer
+                0x0000000000803ede        0x2 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.bss.touch_seq_lib_state
+                0x0000000000803ef3        0x1
+ .bss.touch_seq_lib_state
+                0x0000000000803ef3        0x1 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.bss.current_measure_channel
+                0x0000000000803ee0        0x2
+ .bss.current_measure_channel
+                0x0000000000803ee0        0x2 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.bss.qtm_raw_data_measurements_ptr
+                0x0000000000803ee2        0x2
+ .bss.qtm_raw_data_measurements_ptr
+                0x0000000000803ee2        0x2 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.bss.qtm_local_ms_timecount
+                0x0000000000803ee4        0x2
+ .bss.qtm_local_ms_timecount
+                0x0000000000803ee4        0x2 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.text.qtm_key_sensors_process
+                0x00000000000000ba      0x72e
+ .text.qtm_key_sensors_process
+                0x00000000000000ba      0x72e C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x00000000000000ba                qtm_key_sensors_process
+
+.text.qtm_acquisition_process
+                0x00000000000007e8      0x2ea
+ .text.qtm_acquisition_process
+                0x00000000000007e8      0x2ea C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x00000000000007e8                qtm_acquisition_process
+
+.text.PIN_MANAGER_Initialize
+                0x0000000000000ad2      0x11c
+ .text.PIN_MANAGER_Initialize
+                0x0000000000000ad2      0x11c build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000000ad2                PIN_MANAGER_Initialize
+
+.text.qtm_measure_node
+                0x0000000000000bee      0x10a
+ .text.qtm_measure_node
+                0x0000000000000bee      0x10a C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.text.datastreamer_output
+                0x0000000000000cf8       0xfe
+ .text.datastreamer_output
+                0x0000000000000cf8       0xfe build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+                0x0000000000000cf8                datastreamer_output
+
+.text.check_for_aks_block
+                0x0000000000000df6       0xda
+ .text.check_for_aks_block
+                0x0000000000000df6       0xda C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.text.qtm_ptc_start_measurement_seq
+                0x0000000000000ed0       0xcc
+ .text.qtm_ptc_start_measurement_seq
+                0x0000000000000ed0       0xcc C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x0000000000000ed0                qtm_ptc_start_measurement_seq
+
+.text.USART0_ReceiveISR
+                0x0000000000000f9c       0xc4
+ .text.USART0_ReceiveISR
+                0x0000000000000f9c       0xc4 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000000f9c                USART0_ReceiveISR
+
+.text.__vector_3
+                0x0000000000001060       0xaa
+ .text.__vector_3
+                0x0000000000001060       0xaa build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001060                __vector_3
+
+.text.USART0_Initialize
+                0x000000000000110a       0x8c
+ .text.USART0_Initialize
+                0x000000000000110a       0x8c build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x000000000000110a                USART0_Initialize
+
+.text.qtm_calibrate_sensor_node
+                0x0000000000001196       0x88
+ .text.qtm_calibrate_sensor_node
+                0x0000000000001196       0x88 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x0000000000001196                qtm_calibrate_sensor_node
+
+.text.__vector_6
+                0x000000000000121e       0x86
+ .text.__vector_6
+                0x000000000000121e       0x86 build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x000000000000121e                __vector_6
+
+.text.__vector_4
+                0x00000000000012a4       0x80
+ .text.__vector_4
+                0x00000000000012a4       0x80 build/default/production/mcc_generated_files/system/src/pins.o
+                0x00000000000012a4                __vector_4
+
+.text.qtm_ptc_init_acquisition_module
+                0x0000000000001324       0x70
+ .text.qtm_ptc_init_acquisition_module
+                0x0000000000001324       0x70 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x0000000000001324                qtm_ptc_init_acquisition_module
+
+.text.__vector_24
+                0x0000000000001394       0x6a
+ .text.__vector_24
+                0x0000000000001394       0x6a build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000001394                __vector_24
+
+.text.touch_process
+                0x00000000000013fe       0x68
+ .text.touch_process
+                0x00000000000013fe       0x68 build/default/production/mcc_generated_files/touch/touch.o
+                0x00000000000013fe                touch_process
+
+.text.select_next_channel_to_measure
+                0x0000000000001466       0x68
+ .text.select_next_channel_to_measure
+                0x0000000000001466       0x68 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.text.touch_init
+                0x00000000000014ce       0x62
+ .text.touch_init
+                0x00000000000014ce       0x62 build/default/production/mcc_generated_files/touch/touch.o
+                0x00000000000014ce                touch_init
+
+.text.touch_status_display
+                0x0000000000001530       0x62
+ .text.touch_status_display
+                0x0000000000001530       0x62 build/default/production/main.o
+                0x0000000000001530                touch_status_display
+
+.text.__vector_7
+                0x0000000000001592       0x58
+ .text.__vector_7
+                0x0000000000001592       0x58 build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x0000000000001592                __vector_7
+
+.text.qtm_t81x_ptc_handler_eoc
+                0x00000000000015ea       0x58
+ .text.qtm_t81x_ptc_handler_eoc
+                0x00000000000015ea       0x58 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x00000000000015ea                qtm_t81x_ptc_handler_eoc
+
+.text.__vector_5
+                0x0000000000001642       0x56
+ .text.__vector_5
+                0x0000000000001642       0x56 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001642                __vector_5
+
+.text.__vector_17
+                0x0000000000001698       0x46
+ .text.__vector_17
+                0x0000000000001698       0x46 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000001698                __vector_17
+
+.text.__vector_22
+                0x00000000000016de       0x46
+ .text.__vector_22
+                0x00000000000016de       0x46 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000016de                __vector_22
+
+.text.__vector_23
+                0x0000000000001724       0x46
+ .text.__vector_23
+                0x0000000000001724       0x46 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000001724                __vector_23
+
+.text.qtm_enable_sensor_node
+                0x000000000000176a       0x42
+ .text.qtm_enable_sensor_node
+                0x000000000000176a       0x42 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x000000000000176a                qtm_enable_sensor_node
+
+.text.USART0_Write
+                0x00000000000017ac       0x40
+ .text.USART0_Write
+                0x00000000000017ac       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000017ac                USART0_Write
+
+.text.USART0_TransmitISR
+                0x00000000000017ec       0x40
+ .text.USART0_TransmitISR
+                0x00000000000017ec       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000017ec                USART0_TransmitISR
+
+.text.CLOCK_Initialize
+                0x000000000000182c       0x3e
+ .text.CLOCK_Initialize
+                0x000000000000182c       0x3e build/default/production/mcc_generated_files/system/src/clock.o
+                0x000000000000182c                CLOCK_Initialize
+
+.text.qtm_init_sensor_key
+                0x000000000000186a       0x3e
+ .text.qtm_init_sensor_key
+                0x000000000000186a       0x3e C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x000000000000186a                qtm_init_sensor_key
+
+.text.RTC_Initialize
+                0x00000000000018a8       0x3c
+ .text.RTC_Initialize
+                0x00000000000018a8       0x3c build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x00000000000018a8                RTC_Initialize
+
+.text.libgcc.prologue
+                0x00000000000018e4       0x32
+ .text.libgcc.prologue
+                0x00000000000018e4       0x32 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_prologue.o)
+                0x00000000000018e4                __prologue_saves__
+
+.text.libgcc.prologue
+                0x0000000000001916       0x30
+ .text.libgcc.prologue
+                0x0000000000001916       0x30 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_epilogue.o)
+                0x0000000000001916                __epilogue_restores__
+
+.text.touch_timer_handler
+                0x0000000000001946       0x22
+ .text.touch_timer_handler
+                0x0000000000001946       0x22 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000001946                touch_timer_handler
+
+.text.get_sensor_state
+                0x0000000000001968       0x1e
+ .text.get_sensor_state
+                0x0000000000001968       0x1e build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000001968                get_sensor_state
+
+.text.get_sensor_node_signal
+                0x0000000000001986       0x1a
+ .text.get_sensor_node_signal
+                0x0000000000001986       0x1a build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000001986                get_sensor_node_signal
+
+.text.get_sensor_node_reference
+                0x00000000000019a0       0x1a
+ .text.get_sensor_node_reference
+                0x00000000000019a0       0x1a build/default/production/mcc_generated_files/touch/touch.o
+                0x00000000000019a0                get_sensor_node_reference
+
+.text.get_sensor_cc_val
+                0x00000000000019ba       0x1a
+ .text.get_sensor_cc_val
+                0x00000000000019ba       0x1a build/default/production/mcc_generated_files/touch/touch.o
+                0x00000000000019ba                get_sensor_cc_val
+
+.text.main      0x00000000000019d4       0x1a
+ .text.main     0x00000000000019d4       0x1a build/default/production/main.o
+                0x00000000000019d4                main
+
+.text.CPUINT_Initialize
+                0x00000000000019ee       0x18
+ .text.CPUINT_Initialize
+                0x00000000000019ee       0x18 build/default/production/mcc_generated_files/system/src/interrupt.o
+                0x00000000000019ee                CPUINT_Initialize
+
+.text.RTC_WritePeriod
+                0x0000000000001a06       0x16
+ .text.RTC_WritePeriod
+                0x0000000000001a06       0x16 build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x0000000000001a06                RTC_WritePeriod
+
+.text.qtm_update_qtlib_timer
+                0x0000000000001a1c       0x16
+ .text.qtm_update_qtlib_timer
+                0x0000000000001a1c       0x16 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x0000000000001a1c                qtm_update_qtlib_timer
+
+.text.qtm_ptc_qtlib_assign_signal_memory
+                0x0000000000001a32       0x14
+ .text.qtm_ptc_qtlib_assign_signal_memory
+                0x0000000000001a32       0x14 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+                0x0000000000001a32                qtm_ptc_qtlib_assign_signal_memory
+
+.text.datastreamer_transmit
+                0x0000000000001a46       0x12
+ .text.datastreamer_transmit
+                0x0000000000001a46       0x12 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+                0x0000000000001a46                datastreamer_transmit
+
+.text.SYSTEM_Initialize
+                0x0000000000001a58        0xe
+ .text.SYSTEM_Initialize
+                0x0000000000001a58        0xe build/default/production/mcc_generated_files/system/src/system.o
+                0x0000000000001a58                SYSTEM_Initialize
+
+.text.USART0_IsTxReady
+                0x0000000000001a66        0xe
+ .text.USART0_IsTxReady
+                0x0000000000001a66        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000001a66                USART0_IsTxReady
+
+.text.exit      0x0000000000001a74        0xe
+ .text.exit     0x0000000000001a74        0xe c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+                0x0000000000001a74                exit
+
+.text.RTC_SetOVFIsrCallback
+                0x0000000000001a82        0xa
+ .text.RTC_SetOVFIsrCallback
+                0x0000000000001a82        0xa build/default/production/mcc_generated_files/timer/src/rtc.o
+                0x0000000000001a82                RTC_SetOVFIsrCallback
+
+.text.protected_write_io
+                0x0000000000001a8c        0x8
+ .text.protected_write_io
+                0x0000000000001a8c        0x8 build/default/production/mcc_generated_files/system/src/protected_io.o
+                0x0000000000001a8c                protected_write_io
+
+.text.qtm_measure_complete_callback
+                0x0000000000001a94        0x8
+ .text.qtm_measure_complete_callback
+                0x0000000000001a94        0x8 build/default/production/mcc_generated_files/touch/touch.o
+
+.rodata.gain_setting_int_cap
+                0x0000000000809a9c        0x6 load address 0x0000000000001a9c
+ .rodata.gain_setting_int_cap
+                0x0000000000809a9c        0x6 C:\Users\I41797\AppData\Local\Temp\ccDaxaui.ltrans0.ltrans.o
+
+.text           0x0000000000001aa2        0x2
+ .text          0x0000000000001aa2        0x2 D:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/ATtiny_DFP/3.1.260/xc8/avr/lib/avrxmega3/short-calls/crtattiny817.o
+                0x0000000000001aa2                __vector_1
+                0x0000000000001aa2                __vector_12
+                0x0000000000001aa2                __bad_interrupt
+                0x0000000000001aa2                __vector_25
+                0x0000000000001aa2                __vector_11
+                0x0000000000001aa2                __vector_13
+                0x0000000000001aa2                __vector_19
+                0x0000000000001aa2                __vector_9
+                0x0000000000001aa2                __vector_2
+                0x0000000000001aa2                __vector_21
+                0x0000000000001aa2                __vector_15
+                0x0000000000001aa2                __vector_8
+                0x0000000000001aa2                __vector_14
+                0x0000000000001aa2                __vector_10
+                0x0000000000001aa2                __vector_16
+                0x0000000000001aa2                __vector_18
+                0x0000000000001aa2                __vector_20
+
+.text.IO_PA2_DefaultInterruptHandler
+                0x0000000000001aa4        0x2
+ .text.IO_PA2_DefaultInterruptHandler
+                0x0000000000001aa4        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aa4                IO_PA2_DefaultInterruptHandler
+
+.text.IO_PA1_DefaultInterruptHandler
+                0x0000000000001aa6        0x2
+ .text.IO_PA1_DefaultInterruptHandler
+                0x0000000000001aa6        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aa6                IO_PA1_DefaultInterruptHandler
+
+.text.IO_PA4_DefaultInterruptHandler
+                0x0000000000001aa8        0x2
+ .text.IO_PA4_DefaultInterruptHandler
+                0x0000000000001aa8        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aa8                IO_PA4_DefaultInterruptHandler
+
+.text.IO_PA5_DefaultInterruptHandler
+                0x0000000000001aaa        0x2
+ .text.IO_PA5_DefaultInterruptHandler
+                0x0000000000001aaa        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aaa                IO_PA5_DefaultInterruptHandler
+
+.text.IO_PA6_DefaultInterruptHandler
+                0x0000000000001aac        0x2
+ .text.IO_PA6_DefaultInterruptHandler
+                0x0000000000001aac        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aac                IO_PA6_DefaultInterruptHandler
+
+.text.IO_PA7_DefaultInterruptHandler
+                0x0000000000001aae        0x2
+ .text.IO_PA7_DefaultInterruptHandler
+                0x0000000000001aae        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aae                IO_PA7_DefaultInterruptHandler
+
+.text.IO_PB0_DefaultInterruptHandler
+                0x0000000000001ab0        0x2
+ .text.IO_PB0_DefaultInterruptHandler
+                0x0000000000001ab0        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001ab0                IO_PB0_DefaultInterruptHandler
+
+.text.LED_B3_DefaultInterruptHandler
+                0x0000000000001ab2        0x2
+ .text.LED_B3_DefaultInterruptHandler
+                0x0000000000001ab2        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001ab2                LED_B3_DefaultInterruptHandler
+
+.text.LED_Power_DefaultInterruptHandler
+                0x0000000000001ab4        0x2
+ .text.LED_Power_DefaultInterruptHandler
+                0x0000000000001ab4        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001ab4                LED_Power_DefaultInterruptHandler
+
+.text.LED_B1_DefaultInterruptHandler
+                0x0000000000001ab6        0x2
+ .text.LED_B1_DefaultInterruptHandler
+                0x0000000000001ab6        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001ab6                LED_B1_DefaultInterruptHandler
+
+.text.LED_B2_DefaultInterruptHandler
+                0x0000000000001ab8        0x2
+ .text.LED_B2_DefaultInterruptHandler
+                0x0000000000001ab8        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001ab8                LED_B2_DefaultInterruptHandler
+
+.text.LED_B4_DefaultInterruptHandler
+                0x0000000000001aba        0x2
+ .text.LED_B4_DefaultInterruptHandler
+                0x0000000000001aba        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000001aba                LED_B4_DefaultInterruptHandler
+
+.text.datastreamer_init
+                0x0000000000001abc        0x2
+ .text.datastreamer_init
+                0x0000000000001abc        0x2 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+                0x0000000000001abc                datastreamer_init
+
+.text.USART0_DefaultFramingErrorCallback
+                0x0000000000001abe        0x2
+ .text.USART0_DefaultFramingErrorCallback
+                0x0000000000001abe        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.text.USART0_DefaultOverrunErrorCallback
+                0x0000000000001ac0        0x2
+ .text.USART0_DefaultOverrunErrorCallback
+                0x0000000000001ac0        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.text.USART0_DefaultParityErrorCallback
+                0x0000000000001ac2        0x2
+ .text.USART0_DefaultParityErrorCallback
+                0x0000000000001ac2        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+
+.text.__dummy_fini
+                0x0000000000001ac4        0x2
+ .text.__dummy_fini
+                0x0000000000001ac4        0x2 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+                0x0000000000001ac4                _fini
+
+.text.__dummy_funcs_on_exit
+                0x0000000000001ac6        0x2
+ .text.__dummy_funcs_on_exit
+                0x0000000000001ac6        0x2 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+                0x0000000000001ac6                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x0000000000001ac8        0x2
+ .text.__dummy_simulator_exit
+                0x0000000000001ac8        0x2 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(exit.o)
+                0x0000000000001ac8                __simulator_exit
+
+.text._Exit     0x0000000000001aca        0x2
+ .text._Exit    0x0000000000001aca        0x2 c:/program files/microchip/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a(_Exit.o)
+                0x0000000000001aca                _Exit
+
+.data.ptc_seq_node_cfg1
+                0x0000000000803e18       0x18 load address 0x0000000000001acc
+ .data.ptc_seq_node_cfg1
+                0x0000000000803e18       0x18 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e18                ptc_seq_node_cfg1
+
+.data.data      0x0000000000803e44       0x13 load address 0x0000000000001ae4
+ .data.data     0x0000000000803e44       0x13 build/default/production/mcc_generated_files/touch/datastreamer/datastreamer.o
+                0x0000000000803e44                data
+
+.data.qtlib_key_configs_set1
+                0x0000000000803e67        0xc load address 0x0000000000001af7
+ .data.qtlib_key_configs_set1
+                0x0000000000803e67        0xc build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e67                qtlib_key_configs_set1
+
+.data.qtlib_key_grp_config_set1
+                0x0000000000803e73        0xa load address 0x0000000000001b03
+ .data.qtlib_key_grp_config_set1
+                0x0000000000803e73        0xa build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e73                qtlib_key_grp_config_set1
+
+.data.qtlib_key_set1
+                0x0000000000803e7d        0x8 load address 0x0000000000001b0d
+ .data.qtlib_key_set1
+                0x0000000000803e7d        0x8 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803e7d                qtlib_key_set1
+
+.data.qtlib_acq_set1
+                0x0000000000803ea3        0x6 load address 0x0000000000001b15
+ .data.qtlib_acq_set1
+                0x0000000000803ea3        0x6 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803ea3                qtlib_acq_set1
+
+.data.ptc_qtlib_acq_gen1
+                0x0000000000803ea9        0x5 load address 0x0000000000001b1b
+ .data.ptc_qtlib_acq_gen1
+                0x0000000000803ea9        0x5 build/default/production/mcc_generated_files/touch/touch.o
+                0x0000000000803ea9                ptc_qtlib_acq_gen1

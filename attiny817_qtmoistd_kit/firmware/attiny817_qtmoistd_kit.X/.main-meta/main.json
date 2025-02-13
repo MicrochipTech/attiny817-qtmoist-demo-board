@@ -1,0 +1,69 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.3.0",
+
+        "name": "com.microchip.mcu8.mplabx.project.attiny817_qtmoistd_kit.X",
+        "version": "1.0.0",
+
+        "displayName": " ATtiny817 QTouch Moisture Demo Kit Firmware",
+        "projectName": "attiny817_qtmoistd_kit.X",
+
+        "shortDescription": " ATtiny817 QTouch Moisture Demo Kit Firmware",
+
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=6.20"
+        },
+        
+        "compiler": [
+            {
+                "name": "XC8",
+                "semverRange": ">=3.00"
+            }
+        ],
+        "dfp": {
+            "name": "ATtiny_DFP",
+            "semverRange": "^3.1.260"
+            },
+        
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=5.5.1"
+        },
+        
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+        "name": "ATtiny817",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "peripherals":   ["PTC","RTC","USART","GPIO"],
+        "keywords": [
+            "Melody",
+            "Button",
+            "Touch",
+            "Sensor",
+            "Touch sensing",
+            "1D Touch",
+            "PTC"
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./../../../readme.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
